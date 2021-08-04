@@ -21,3 +21,10 @@ int multiply(int x,int y){
 int cube(int x){
      return x * x * X;
 }
+
+int square(int x ){
+
+    return x * x ;
+    
+}
+
